@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Image & Video Compression Lab: A From-Scratch Hybrid Video Codec"
+type: software
+authors:
+  - family-names: "Dhariwal"
+    given-names: "Aakarsh"
+    affiliation: "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)"
+abstract: >-
+  A from-scratch implementation of a JPEG/MPEG-style hybrid video codec —
+  block DCT transform coding, scalar quantization, zigzag scanning,
+  run-level coding, Huffman entropy coding, block motion estimation and
+  compensation, and an I-frame/P-frame hybrid coding structure — extended
+  with half-pel motion estimation, rate-distortion-optimized coefficient
+  decisions, and an H.264-style in-loop deblocking filter. Built for the
+  "Image and Video Compression Lab Course", Lehrstuhl für
+  Multimediakommunikation und Signalverarbeitung (LMS), FAU
+  Erlangen-Nürnberg, Summer Term 2022.
+date-released: "2022-07-01"
+license: MIT
+repository-code: "https://github.com/aakarshdhariwal/image-video-compression-lab"
+keywords:
+  - video coding
+  - image compression
+  - hybrid video codec
+  - motion estimation
+  - motion compensation
+  - discrete cosine transform
+  - quantization
+  - huffman coding
+  - rate-distortion optimization
+  - deblocking filter

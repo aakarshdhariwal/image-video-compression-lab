@@ -1,0 +1,32 @@
+# MATLAB / Octave editor and session artifacts
+*.asv
+*.autosave
+octave-workspace
+
+# Platform-specific compiled MEX binaries.
+# The course shipped bitstream_read_bits.mexa64 / .mexglx, which are Linux-only
+# builds and cannot load on Windows or macOS. The portable bitstream_read_bits.m
+# (and the original mfile_bitstream_read_bits.m it was copied from) are kept in
+# the repository instead.
+*.mexa64
+*.mexglx
+*.mexw32
+*.mexw64
+
+# Course-provided Linux ELF binary for previewing .yuv files; not part of the
+# codec and not runnable on Windows/macOS.
+code/yuvplayer
+
+# Intermediate codec output produced by running the codec or the benchmarks
+recon.yuv
+smoke.yuv
+smoke.mat
+*_bitstream.mat
+decoded_yuv_file.yuv
+coded_file.mat
+code/test.jpg
+code/test.jpeg
+
+# OS noise
+.DS_Store
+Thumbs.db

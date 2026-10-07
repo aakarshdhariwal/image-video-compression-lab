@@ -1,0 +1,160 @@
+# Created by Octave 11.3.0, Mon Sep 28 19:32:30 2026 UTC
+# name: intra
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: intra_only
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 816165 588589 437482 346123 245625
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1992.59033203125 1436.98486328125 1068.0712890625 845.02685546875 599.67041015625
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.663002200212574 30.06552277639733 27.40481368967146 25.634087000007604 23.369682078369905
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.95631639420049341 0.91677139092962201 0.86766002510078266 0.82312551488653407 0.7484260946755924
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 24.660032033920288 19.177551984786987 15.196316003799438 13.277941942214966 10.063093185424805
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 9.2787740230560303 7.5457620620727539 5.7247419357299805 5.0559611320495605 3.605910062789917
+
+
+
+
+# name: hybrid
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 4
+full
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 633963 443329 319322 247588 169980
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1547.76123046875 1082.34619140625 779.5947265625 604.462890625 414.990234375
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.28520890602509 29.649819039308717 26.994427958527115 25.286489371335094 23.179979331979755
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.94969904304637931 0.90637732542248894 0.85657516201583694 0.81396826191778682 0.74944559983282555
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 47.042501926422119 37.047591924667358 31.910840034484863 30.129171133041382 28.872168064117432
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 8.4973020553588867 5.0822679996490479 3.4338791370391846 2.7432680130004883 2.207550048828125
+
+
+
+
+# name: qp_values
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+

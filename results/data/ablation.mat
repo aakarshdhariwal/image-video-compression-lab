@@ -1,0 +1,470 @@
+# Created by Octave 11.3.0, Wed Oct 07 23:55:04 2026 UTC
+# name: ablation
+# type: cell
+# rows: 1
+# columns: 5
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 4
+full
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 633963 443329 319322 247588 169980
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1547.76123046875 1082.34619140625 779.5947265625 604.462890625 414.990234375
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.28520890602509 29.649819039308717 26.994427958527115 25.286489371335094 23.179979331979755
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.94969904304637931 0.90637732542248894 0.85657516201583694 0.81396826191778682 0.74944559983282555
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 55.800060987472534 28.192783117294312 25.100088119506836 23.962468862533569 23.497397184371948
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 4.5380170345306396 3.5552730560302734 2.7318470478057861 2.3300490379333496 1.8638861179351807
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 4
+full
+
+
+# name: rdo
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 632818 441647 316682 243354 161060
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1544.9658203125 1078.23974609375 773.1494140625 594.1259765625 393.212890625
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.273587663864802 29.639770962715517 26.984536623503253 25.271032189327851 23.133420088811391
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.94938893211738462 0.90601343539367196 0.856011506789358 0.81313875393688606 0.74575677480647429
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 44.134158134460449 27.503522872924805 24.669549942016602 23.378679990768433 27.676738977432251
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 4.6978108882904053 3.43050217628479 2.5973038673400879 2.1647341251373291 2.2294111251831055
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 4
+full
+
+
+# name: deblock
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 626557 433294 305316 235193 160579
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1529.68017578125 1057.8466796875 745.400390625 574.20166015625 392.03857421875
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.214168745003924 29.747786130187571 27.385935307995108 25.887374400119732 23.976893263859317
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.9550824797815336 0.91816060420891499 0.87569226482756568 0.83608940865374348 0.77298353651279095
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 66.741729021072388 52.571249008178711 55.338551044464111 63.834181070327759 47.293510913848877
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 11.346649169921875 5.8990938663482666 6.1405589580535889 7.1759340763092041 3.1261889934539795
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 6
+subpel
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 562291 381538 271308 211557 148398
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1372.78076171875 931.4892578125 662.373046875 516.49658203125 362.2998046875
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.74824205570502 30.251385843594434 27.698064235848982 26.020118577465542 23.923656694773534
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.95698349159313989 0.91975635211293516 0.87456094223175107 0.83348736019139635 0.76827381838829845
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 54.279023170471191 40.171030044555664 41.246589183807373 35.963711023330688 36.995523929595947
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 6.3470821380615234 4.8513288497924805 4.3745989799499512 2.8076770305633545 2.5650839805603027
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 6
+subpel
+
+
+# name: rdo
+# type: bool
+1
+
+
+# name: deblock
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 564269 383254 271695 208027 137021
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1377.60986328125 935.6787109375 663.31787109375 507.87841796875 334.52392578125
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.493727568816169 30.073289444147115 27.678967385457049 26.159560076818046 24.176952267079294
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.95892758812008316 0.92420669074346906 0.8815936172951131 0.84316121525548959 0.77478746071592741
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 46.462354898452759 38.743453025817871 47.68856406211853 42.837146043777466 35.229504108428955
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 6.6452040672302246 5.0118370056152344 4.9510090351104736 4.0483598709106445 2.7166728973388672
+
+
+
+
+
+
+
+# name: labels
+# type: cell
+# rows: 1
+# columns: 5
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Baseline
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 24
++ RD-optimized decisions
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
++ In-loop deblocking
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
++ Half-pel ME
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 14
+All extensions
+
+
+
+
+
+# name: qp_values
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+

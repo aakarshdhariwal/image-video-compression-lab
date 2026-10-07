@@ -1,0 +1,404 @@
+# Created by Octave 11.3.0, Thu Oct 08 00:11:23 2026 UTC
+# name: sequence_results
+# type: cell
+# rows: 1
+# columns: 4
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 6
+subpel
+
+
+# name: rdo
+# type: bool
+1
+
+
+# name: deblock
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 564269 383254 271695 208027 137021
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1377.60986328125 935.6787109375 663.31787109375 507.87841796875 334.52392578125
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.493727568816169 30.073289444147115 27.678967385457049 26.159560076818046 24.176952267079294
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.95892758812008316 0.92420669074346906 0.8815936172951131 0.84316121525548959 0.77478746071592741
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 44.767583131790161 36.92380690574646 35.901778221130371 35.803145170211792 35.379159927368164
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 6.1469550132751465 4.1691708564758301 4.0390100479125977 3.3237810134887695 3.1247320175170898
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 19
+rugby_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 6
+subpel
+
+
+# name: rdo
+# type: bool
+1
+
+
+# name: deblock
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 449933 302455 215594 170435 122268
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1098.46923828125 738.41552734375 526.3525390625 416.10107421875 298.505859375
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 35.682298804424669 32.874324279742531 30.825460066795447 29.430652608541529 27.629753021573379
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.92373919726229692 0.86918685120484018 0.81293470147290969 0.76747701937247625 0.70725870794374046
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 38.339804887771606 46.860698938369751 77.868646860122681 60.432596921920776 69.090602874755859
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 4.6297411918640137 4.255486011505127 5.9994192123413086 4.271906852722168 2.8737661838531494
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 21
+shuttle_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 6
+subpel
+
+
+# name: rdo
+# type: bool
+1
+
+
+# name: deblock
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 169582 106209 71697 54816 41096
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 414.0185546875 259.29931640625 175.04150390625 133.828125 100.33203125
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 36.922115830678479 34.5735569570639 33.004333801872555 31.98619916166323 30.880429957787584
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.92979230424832127 0.89901772698282834 0.8755251010304399 0.85751055780970131 0.83743145355175097
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 39.127137899398804 41.823731184005737 43.002147197723389 49.66656494140625 49.460084915161133
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 3.0469160079956055 3.1202559471130371 2.7088348865509033 2.339378833770752 1.8893270492553711
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 19
+vimto_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 6
+subpel
+
+
+# name: rdo
+# type: bool
+1
+
+
+# name: deblock
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 223329 146162 106655 84659 62903
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 545.23681640625 356.8408203125 260.38818359375 206.68701171875 153.57177734375
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 37.092952605186525 34.763434204746005 32.953333620472037 31.722948175902165 30.044687425864733
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.93524449133490906 0.90909357604333674 0.88189197920386309 0.85925214089645618 0.82696066386698386
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 40.572097778320312 39.587192058563232 41.586179971694946 36.378199815750122 38.248406887054443
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 2.6329488754272461 2.4837560653686523 2.0529749393463135 2.2853169441223145 1.9515500068664551
+
+
+
+
+
+
+
+# name: all_sequences
+# type: cell
+# rows: 1
+# columns: 4
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+rugby_short_cif.yuv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 21
+shuttle_short_cif.yuv
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+vimto_short_cif.yuv
+
+
+
+
+
+# name: qp_values
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+

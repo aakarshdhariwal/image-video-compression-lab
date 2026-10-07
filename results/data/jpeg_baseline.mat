@@ -1,0 +1,226 @@
+# Created by Octave 11.3.0, Thu Oct 08 00:16:00 2026 UTC
+# name: jpeg
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 6
+# name: quality
+# type: matrix
+# rows: 1
+# columns: 5
+ 20 40 60 75 90
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 395856 603448 770400 974304 1480496
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 966.4453125 1473.26171875 1880.859375 2378.671875 3614.4921875
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 26.807796957721308 29.628286179539828 31.697921758370263 34.054160585582778 39.62810801749923
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.87583297569002383 0.92852186188912866 0.95195343444252989 0.96896562889965243 0.98879108551614592
+
+
+
+
+# name: ours
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 6
+subpel
+
+
+# name: rdo
+# type: bool
+1
+
+
+# name: deblock
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 564269 383254 271695 208027 137021
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1377.60986328125 935.6787109375 663.31787109375 507.87841796875 334.52392578125
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.493727568816169 30.073289444147115 27.678967385457049 26.159560076818046 24.176952267079294
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.95892758812008316 0.92420669074346906 0.8815936172951131 0.84316121525548959 0.77478746071592741
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 40.02237606048584 38.075330018997192 35.044096946716309 36.069416999816895 32.480237007141113
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 5.856895923614502 4.4532380104064941 3.0512428283691406 2.8570511341094971 2.4582748413085938
+
+
+
+
+# name: ours_intra
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: intra_only
+# type: bool
+1
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 816165 588589 437482 346123 245625
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1992.59033203125 1436.98486328125 1068.0712890625 845.02685546875 599.67041015625
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.663002200212574 30.06552277639733 27.40481368967146 25.634087000007604 23.369682078369905
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.95631639420049341 0.91677139092962201 0.86766002510078266 0.82312551488653407 0.7484260946755924
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 18.484338998794556 10.766805171966553 8.5021960735321045 6.9667379856109619 5.3328251838684082
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 5.586555004119873 4.0201780796051025 4.2570350170135498 2.6903259754180908 2.7147958278656006
+
+
+
+
+# name: jpeg_quality
+# type: matrix
+# rows: 1
+# columns: 5
+ 20 40 60 75 90
+
+
+# name: qp_values
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+

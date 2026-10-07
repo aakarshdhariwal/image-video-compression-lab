@@ -1,0 +1,308 @@
+# Created by Octave 11.3.0, Wed Oct 07 23:35:38 2026 UTC
+# name: me_results
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 4
+full
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 633963 443329 319322 247588 169980
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1547.76123046875 1082.34619140625 779.5947265625 604.462890625 414.990234375
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.28520890602509 29.649819039308717 26.994427958527115 25.286489371335094 23.179979331979755
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.94969904304637931 0.90637732542248894 0.85657516201583694 0.81396826191778682 0.74944559983282555
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 39.679001092910767 40.343837976455688 41.523167848587036 61.298632144927979 32.607263088226318
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 5.2810139656066895 4.2162189483642578 4.3160650730133057 3.8504078388214111 3.7008099555969238
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 5
+3step
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 676910 480391 346806 267628 182827
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1652.6123046875 1172.82958984375 846.6943359375 653.388671875 446.35498046875
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.139382299082015 29.431209947149284 26.746412380473718 25.022956047665154 22.914376626780964
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.94630512980376724 0.89900731767960429 0.84644216927124649 0.8019275992769257 0.73474606993733049
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 24.195403099060059 18.220967054367065 14.186660051345825 16.73350191116333 14.686764001846313
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 5.8026938438415527 4.5097038745880127 4.6527740955352783 4.6917068958282471 2.530364990234375
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: qp
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
+# name: sequence
+# type: sq_string
+# elements: 1
+# length: 26
+flowergarden_short_cif.yuv
+
+
+# name: options
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 1
+# name: me_strategy
+# type: sq_string
+# elements: 1
+# length: 3
+log
+
+
+
+
+# name: bits
+# type: matrix
+# rows: 1
+# columns: 5
+ 703533 503097 367091 285586 197354
+
+
+# name: rate_kbps
+# type: matrix
+# rows: 1
+# columns: 5
+ 1717.60986328125 1228.26416015625 896.21826171875 697.2314453125 481.8212890625
+
+
+# name: psnr
+# type: matrix
+# rows: 1
+# columns: 5
+ 33.239253537610054 29.567864871676569 26.887652712965391 25.157379402913442 23.012124225521493
+
+
+# name: ssim
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.94880040618790706 0.90463303786861426 0.85286628620948546 0.8091859955601608 0.74149357897716939
+
+
+# name: enc_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 23.451287984848022 16.573817014694214 15.180757999420166 16.787738084793091 13.019531965255737
+
+
+# name: dec_time
+# type: matrix
+# rows: 1
+# columns: 5
+ 6.2504909038543701 5.0750820636749268 4.6298809051513672 3.4499020576477051 2.6305530071258545
+
+
+
+
+
+
+
+# name: strategies
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+full
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+3step
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+log
+
+
+
+
+
+# name: labels
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 11
+Full search
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+3-step search
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+Logarithmic search
+
+
+
+
+
+# name: qp_values
+# type: matrix
+# rows: 1
+# columns: 5
+ 6 10 15 20 30
+
+
