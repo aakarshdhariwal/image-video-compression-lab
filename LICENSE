@@ -19,24 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This license covers the author's own code under `code/`, excluding
-`code/third_party/`, which retains its original authorship (see
-`code/third_party/NOTICE.md`).
-
-The lab manual `report/Prakt_IVC_2022.pdf` is course material of the Chair of
-Multimedia Communications and Signal Processing (LMS),
-Friedrich-Alexander-Universitaet Erlangen-Nuernberg. It is included as the
-specification this code implements, and is not covered by this license.
-
-The test sequences (`*.yuv`, `*.tif`), the verification fixtures
-(`verify_*.mat`, `picture.mat`, `flower_*.mat`, `huffman_table.mat`,
-`input_signal_huffman.mat`) and the course-provided infrastructure functions
-(`bitstream_*.m`, `yuv_*_one_frame.m`, `verify_*.m`, `get_dr_result*.m`,
-`get_final_result.m`, `plot_motion_vectors.m`, `create_*.m`, `mse_to_psnr.m`,
-`design_quantizer_matrix.m`, `get_quantisation_matrix.m`,
-`get_psnr_for_sequence.m`, `get_image_filesize.m`, `show_huffman_*.m`,
-`shape_pdf.m`, `blockwise_processing.m`, `startup.m`) were supplied with the
-lab course and are likewise not covered by this license.
